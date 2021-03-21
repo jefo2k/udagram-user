@@ -2,11 +2,12 @@
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
-The project is split into three parts:
+The project is split into four parts:
 
 1. Frontend - Angular web application built with Ionic Framework
 2. User Backend RESTful API - Node-Express application
 3. Feed Backend RESTful API - Node-Express application
+4. Reverse proxy - Nginx docker image
 
 ## Getting Started
 
